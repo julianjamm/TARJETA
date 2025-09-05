@@ -16,7 +16,7 @@ body{
 }
 .card img{
     border-radius: 50%;
-    width: 120px;
+    width: 200px;
     margin-bottom: 15px;
 }
 .card h1{
@@ -29,4 +29,11 @@ body{
 }
 .buttons a{
     display: inline-block;
+    margin: 10px;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+    background-color: #015564;
+    border-radius: 8px;
+    transition: background-color 0.3s;
 }
