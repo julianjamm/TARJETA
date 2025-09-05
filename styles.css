@@ -15,6 +15,10 @@
     font-size: 22px;
     margin: 10px 0;
 }
+.card p{
+    font-size: 24px;
+    color: #360808;
+}
 body{
     font-family: Arial, sans-serif;
     background-color: #ff8661;
