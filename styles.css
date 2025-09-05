@@ -8,9 +8,13 @@
 }
 .card img{
     border-radius: 50%;
+    width: 120px;
     margin-bottom: 15px;
 }
-
+.card h1{
+    font-size: 22px;
+    margin: 10px 0;
+}
 body{
     font-family: Arial, sans-serif;
     background-color: #ff8661;
