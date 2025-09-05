@@ -3,7 +3,7 @@
     padding: 30px;
     border-radius: 10px;
     width: 300px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 4 4px 8px rgba(0, 0, 0, 0.2);
     text-align: center;
 }
 .card img{
@@ -17,11 +17,11 @@
 }
 .card p{
     font-size: 24px;
-    color: #360808;
+    color: #015564;
 }
 body{
     font-family: Arial, sans-serif;
-    background-color: #ff8661;
+    background-color: #8b8b8b;
     display: flex;
     justify-content: center;
     align-items: center;
